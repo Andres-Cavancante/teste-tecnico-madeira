@@ -7,13 +7,17 @@ Nessa etapa, a tabela 'vendas_janeiro' é atribuída a uma variável python no a
 
 #### Etapa 3. Extrair da base 3 insights que considere relevante para o negócio
 Através da análise prévia com o Pandas foi possível extrair os seguintes insights:
-- Quanto ao tipo/canal de venda:
-  - A receita total de pedidos aprovados foi de 1,79 milhões. Vendas do tipo 1P totalizaram aproximadamente 78% da receita total de pedidos aprovados
-  - A receita adquirida de vendas efetuadas através do canal MadeiraMadeira totaliza 54% da receita total, seguido de Magazine Luíza e B2W com 18% e 14%. Os demais canais constituem os 14% restantes.Já por número de vendas, o canal MadeiraMadeira contabiliza 55% delas
 
-  - Com cerca de R$1.200.000, São Paulo foi a região com maior receita (49% da receita total), seguido do Rio de Janeiro, Minas Gerais, Paraná e demais
-  - O Amazonas foi o estado com maior receita média de frete (receita de frete dividivo pelo número de vendas), seguido de Rondônia, Pará e demais
-  - As categorias de produto mais vendidas foram Guarda-Roupas, Escrivaninhas e Painel para TV. Quanto as categorias que apresentaram mais receita média, se destacaram Expositores Refrigerados, Cervejeiras e Freezer
+- Quanto ao tipo/canal de venda:
+  - A receita total de pedidos aprovados foi de 1,79 milhões. Vendas do tipo 1P totalizaram aproximadamente 78% da receita total de pedidos aprovados;
+  - A receita adquirida de vendas efetuadas através do canal MadeiraMadeira totaliza 54% da receita total, seguido de Magazine Luíza e B2W com 18% e 14%. Os demais canais constituem os 14% restantes. Já por número de vendas, o canal MadeiraMadeira contabiliza 55% delas;
+
+- Quanto a Região:
+  - Com cerca de R$1.200.000, São Paulo foi a região com maior receita (49% da receita total), seguido do Rio de Janeiro, Minas Gerais, Paraná e demais;
+  - O Amazonas foi o estado com maior receita média de frete (receita de frete dividivo pelo número de vendas), seguido de Rondônia, Pará e demais;
+
+- Quanto a Categoria:
+  - As categorias de produto mais vendidas foram Guarda-Roupas, Escrivaninhas e Painel para TV. Quanto as categorias que apresentaram mais receita média, se destacaram Expositores Refrigerados, Cervejeiras e Freezer.
 
 #### Etapa 4. Utilizar uma ferramenta de visualização a sua escolha para ilustrar seus insights
 A ferramenta de visualização de dados escolhida foi o Power BI. 
