@@ -7,7 +7,7 @@ O SGBD escolhido foi o MySQL com o server da Oracle. O arquivo 'banco-tabela.sql
 Nessa etapa, a tabela 'vendas_janeiro' é atribuída a uma variável python no ambiente do Jupyter Notebook (arquivo 'leitura_e_tratamento.ipynb'). Os dados foram analizados, sofreram um processo de limpeza simples e seu comportamento foi explorado através de métodos da biblioteca pandas em função de alguns parâmetros listados. Daí foram extraídos insights e a tabela foi exportada em um arquivo excel (base_tratada.xlsx).
 
 #### Etapa 3. Extrair da base 3 insights que considere relevante para o negócio
-Através da análise prévia com o Pandas foi possível extrair os seguintes insights:
+Através da análise prévia com o Pandas foi possível extrair alguns insights. O nível de informação disponível na tabela permitiu extração de insights no nível de analítica descritiva:
 
 - Quanto ao tipo/canal de venda:
   - A receita total de pedidos aprovados foi de 1,79 milhões. Vendas do tipo 1P totalizaram aproximadamente 78% da receita total de pedidos aprovados;
