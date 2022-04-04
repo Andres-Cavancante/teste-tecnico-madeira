@@ -18,7 +18,7 @@ receita_total DECIMAL(12,7),
 nome_produto VARCHAR(1000),
 categoria VARCHAR(1000));
 
-LOAD DATA LOCAL INFILE "C:/Users/burge/Downloads/Case_Madeira/base_vendas_2020_csv.csv" INTO TABLE vendas_2020.vendas_janeiro
+LOAD DATA LOCAL INFILE "C:/.../teste-tecnico-madeira/base_vendas_2020.csv" INTO TABLE vendas_2020.vendas_janeiro
 CHARACTER SET latin1
 FIELDS TERMINATED BY ';'
 LINES TERMINATED BY '\r'
