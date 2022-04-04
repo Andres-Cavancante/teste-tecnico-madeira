@@ -1,4 +1,3 @@
-# 
 #### Etapa 1. Criação de um banco e um tabela de acordo com excel em anexo localmente
 O SGBD escolhido foi o MySQL com o server da Oracle. O arquivo 'banco-tabela.sql' contém o script sql que cria o banco 'vendas_2020', a tabela 'vendas_janeiro e carrega os dados do arquivo csv na tabela, convertendo valores '' para NULL.
 
@@ -20,4 +19,4 @@ Através da análise prévia com o Pandas foi possível extrair os seguintes ins
   - As categorias de produto mais vendidas foram Guarda-Roupas, Escrivaninhas e Painel para TV. Quanto as categorias que apresentaram mais receita média, se destacaram Expositores Refrigerados, Cervejeiras e Freezer.
 
 #### Etapa 4. Utilizar uma ferramenta de visualização a sua escolha para ilustrar seus insights
-A ferramenta de visualização de dados escolhida foi o Power BI. 
+A ferramenta de visualização de dados escolhida foi o Power BI. No arquivo 'visualizacao_vendas_2020.pbix', as ilustrações estão dividias em duas páginas. Na primeira estão os insights em função do tipo e canal de venda e na segunda estão os insights em função da região e categoria.
